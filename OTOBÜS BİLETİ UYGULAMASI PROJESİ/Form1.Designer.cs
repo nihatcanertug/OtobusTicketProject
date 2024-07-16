@@ -1,4 +1,3 @@
-﻿
 namespace OTOBÜS_BİLETİ_UYGULAMASI_PROJESİ
 {
     partial class Form1
@@ -23,10 +22,6 @@ namespace OTOBÜS_BİLETİ_UYGULAMASI_PROJESİ
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
@@ -368,6 +363,7 @@ namespace OTOBÜS_BİLETİ_UYGULAMASI_PROJESİ
         }
 
         #endregion
+
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.GroupBox groupBox3;
@@ -398,4 +394,3 @@ namespace OTOBÜS_BİLETİ_UYGULAMASI_PROJESİ
         private System.Windows.Forms.ColumnHeader columnHeader1;
     }
 }
-
